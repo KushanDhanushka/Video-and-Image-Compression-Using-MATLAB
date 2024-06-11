@@ -1,7 +1,7 @@
 % =========================================================================
 
-% E/18/075 --- DHANUSHKA HKK
-% EE 596 --- IMAGE AND VIDEO CODING
+% DHANUSHKA HKK
+% IMAGE AND VIDEO CODING
 % Mini Project 
 % Stage 3.3.2
 
